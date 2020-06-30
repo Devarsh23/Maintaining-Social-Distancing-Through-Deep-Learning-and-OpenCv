@@ -1,5 +1,7 @@
 # Maintaining-Social-Distancing-Through-Deep-Learning-and-OpenCv
 # This project is done by <a href="https://github.com/Devarsh23 ">Devarsh Patel</a>  And <a href="https://github.com/pruthvi03 ">Pruthvi Hingu</a>
+## Demo Of the output
+<a href="https://youtu.be/KdOGJzS0kFA"> DEMO </a>
 ## The overview of this repository
 Describes about the usefulness of deep learning and opencv in  maintaining social distancing in the current ongoing pandemic event where the unlock phase is executing <br />
 ## Motivation behind the project:
