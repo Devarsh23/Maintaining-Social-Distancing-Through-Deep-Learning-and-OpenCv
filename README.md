@@ -1,13 +1,13 @@
 # Maintaining-Social-Distancing-Through-Deep-Learning-and-OpenCv
 # This project is done by <a href="https://github.com/Devarsh23 ">Devarsh Patel</a>  And <a href="https://github.com/pruthvi03 ">Pruthvi Hingu</a>
 ## Table of content
-[1. Demo](#demo-of-the-output)
-[2.The overview of this repository](#the-overview-of-this-repository)
-[3.Motivation behind the project](#motivation-behind-the-project)
-[4.To Do](#to-do)
-[5.Directory structure](#directory-structure)
-[6.Detailed Description of code](#detailed-description-of-code)
-[7.Special Thanks](#special-thanks)
+[1. Demo](#demo-of-the-output) <br />
+[2.The overview of this repository](#the-overview-of-this-repository) <br />
+[3.Motivation behind the project](#motivation-behind-the-project) <br />
+[4.To Do](#to-do) <br />
+[5.Directory structure](#directory-structure) <br />
+[6.Detailed Description of code](#detailed-description-of-code) <br />
+[7.Special Thanks](#special-thanks) <br />
 
 
 
